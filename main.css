@@ -1,0 +1,119 @@
+
+
+body {
+    background-color: rgb(255, 220, 222);
+    color: black;
+}
+
+header {
+    background-color: rgb(255, 174, 215);
+    color: black;
+    width: 1000px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+section {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+img {
+    width: 100%;
+}
+
+#een,
+#twee,
+#drie,
+#vier,
+#vijf,
+#zes,
+#zeven,
+#acht,
+#negen,
+#tien,
+#elf,
+#twaalf,
+#dertien,
+#veertien,
+#vijftien,
+#zestien {
+    width: 250px;
+    height: 20px;
+    color: black;
+    text-align: center;
+}
+
+#een {
+    background-color: rgb(255, 161, 166);
+}
+
+#twee {
+    background-color: rgb(255, 139, 145);
+}
+
+#drie {
+    background-color: rgb(255, 79, 88);
+}
+
+#vier {
+    background-color: rgb(255, 0, 13);
+}
+
+#vijf {
+    background-color: rgb(179, 139, 141);
+}
+
+#zes {
+    background-color: rgb(240, 6, 18);
+
+}
+
+#zeven {
+    background-color: rgb(240, 6, 18);
+}
+
+#acht {
+    background-color: rgb(240, 6, 18);
+}
+
+#negen {
+    background-color: rgb(163, 9, 17);
+}
+
+#tien {
+    background-color: rgb(190, 151, 155);
+}
+
+#elf {
+    background-color: rgb(116, 67, 69);
+}
+
+#twaalf {
+    background-color: rgb(221, 171, 173);
+}
+
+#dertien {
+    background-color: rgb(117, 19, 24);
+}
+
+#veertien {
+    background-color: rgb(202, 135, 135);
+}
+
+#vijftien {
+    background-color: rgb(241, 203, 206);
+}
+
+#zestien {
+    background-color: rgb(252, 227, 228);
+}
+
+
+footer {
+    background-color: rgb(255, 174, 215);
+    color: black;
+    width: 1000px;
+    height: 300px;
+    margin: 0 auto;
+}
